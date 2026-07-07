@@ -42,6 +42,8 @@ A CLI coding agent is an AI-powered tool that runs in your terminal and can auto
 ### Open Source
 
 Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tags `[Company]` indicate the backing organization.
+ - **[loomo](https://github.com/namki1222/loomo)** `⭐ 0` — Weave Claude Code & Codex sessions into a team that talks to each other. Session-to-session messaging over tmux with
+  correlation keys; agents reply purely by a CLAUDE.md/AGENTS.md convention — no daemon, single bash binary. MIT.
 
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** `⭐ 210k` — Nous Research's self-improving CLI agent with persistent memory, automated skill creation, sandboxed code execution via Unix socket RPC, and multi-platform reach (Telegram/Slack/Discord/WhatsApp); supports 300+ models across multiple providers.
 
